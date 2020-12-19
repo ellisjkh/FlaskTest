@@ -1,0 +1,88 @@
+/* Normal Style */
+
+/* Header */
+
+header{
+    font-family: Courier New, Courier, monospace;
+    background-color: #000;
+    font-style: unset;
+    text-align: center;
+}
+
+/* Nav */
+
+nav {
+    background-color: darkslategrey;
+    margin-top: 1em;
+}
+
+    nav ul li {
+        list-style-type: none;
+        text-align: center;
+        display: inline;
+    }
+
+        nav ul li a {
+            text-decoration: none;
+        }
+
+.nav-pills .nav-link {
+    border-radius: 0;
+}
+
+    .nav-pills .nav-link:hover {
+        background-color: white;
+    }
+
+    .nav-pills .nav-link.active {
+        background-color: red;
+    }
+
+a {
+    font-display: block;
+    margin: 25px;
+}
+
+/* Body */
+
+body {
+    background-color: black;
+    font-family: Arial;
+    margin-left: 10px;
+}
+
+/* SerachBar */
+
+    #searchBar {
+        text-align: center;
+    }
+
+    /* Login */
+
+   .container, #Login{
+       align-content: center;
+   } 
+
+    /* Text */
+    
+    title{
+        color: navajowhite;
+    }
+
+    h1 {
+    color: navajowhite;
+    }
+
+    h2 {
+    color: navajowhite;
+    }
+
+    h3{
+    color: navajowhite;
+    }
+
+    p{
+        color:navajowhite;
+    }
+
+    
